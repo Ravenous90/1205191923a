@@ -1,0 +1,260 @@
+2019-06-12 17:19:18 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "". in C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('', Array)
+#1 C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\OpenServer\domains\antagosoft\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\OpenServer\domains\antagosoft\index.php(12): yii\base\Application->run()
+#2 {main}
+2019-06-12 17:19:17 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => '289e609d03118b662b7304f871516153a93cb45a4486003c41d849cfefa27226a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"z0uqXsGbePL7y9gUjGAheY9QNTtpZfgp\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'antagosoft'
+    'HTTP_X_REAL_IP' => '127.0.0.1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_CONNECTION' => 'close'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,ru;q=0.8,uk;q=0.7'
+    'HTTP_COOKIE' => '_csrf=289e609d03118b662b7304f871516153a93cb45a4486003c41d849cfefa27226a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22z0uqXsGbePL7y9gUjGAheY9QNTtpZfgp%22%3B%7D'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-7.0-x64\\ext;c:\\openserver\\modules\\php\\PHP-7.0-x64\\pear;c:\\openserver\\modules\\php\\PHP-7.0-x64\\pear\\bin;c:\\openserver\\modules\\php\\PHP-7.0-x64;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\database\\MySQL-5.6-x64\\bin;c:\\openserver\\modules\\redis\\Redis-3.0-x64;c:\\openserver\\modules\\http\\Apache-PHP-7-x64+Nginx-1.10\\bin;c:\\openserver\\modules\\http\\Apache-PHP-7-x64+Nginx-1.10;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\system32\\Wbem;C:\\WINDOWS\\SysWOW64'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'COMSPEC' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\WINDOWS'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'antagosoft'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/antagosoft'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/antagosoft'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/antagosoft/index.php'
+    'REMOTE_PORT' => '4784'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.0'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1560349157.958
+    'REQUEST_TIME' => 1560349157
+    'argv' => []
+    'argc' => 0
+]
+2019-06-12 17:22:34 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "". in C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('', Array)
+#1 C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\OpenServer\domains\antagosoft\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\OpenServer\domains\antagosoft\index.php(12): yii\base\Application->run()
+#2 {main}
+2019-06-12 17:22:33 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => '289e609d03118b662b7304f871516153a93cb45a4486003c41d849cfefa27226a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"z0uqXsGbePL7y9gUjGAheY9QNTtpZfgp\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'antagosoft'
+    'HTTP_X_REAL_IP' => '127.0.0.1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_CONNECTION' => 'close'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,ru;q=0.8,uk;q=0.7'
+    'HTTP_COOKIE' => '_csrf=289e609d03118b662b7304f871516153a93cb45a4486003c41d849cfefa27226a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22z0uqXsGbePL7y9gUjGAheY9QNTtpZfgp%22%3B%7D'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-7.0-x64\\ext;c:\\openserver\\modules\\php\\PHP-7.0-x64\\pear;c:\\openserver\\modules\\php\\PHP-7.0-x64\\pear\\bin;c:\\openserver\\modules\\php\\PHP-7.0-x64;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\database\\MySQL-5.6-x64\\bin;c:\\openserver\\modules\\redis\\Redis-3.0-x64;c:\\openserver\\modules\\http\\Apache-PHP-7-x64+Nginx-1.10\\bin;c:\\openserver\\modules\\http\\Apache-PHP-7-x64+Nginx-1.10;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\system32\\Wbem;C:\\WINDOWS\\SysWOW64'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'COMSPEC' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\WINDOWS'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'antagosoft'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/antagosoft'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/antagosoft'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/antagosoft/index.php'
+    'REMOTE_PORT' => '4988'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.0'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1560349353.84
+    'REQUEST_TIME' => 1560349353
+    'argv' => []
+    'argc' => 0
+]
+2019-06-12 17:22:47 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "". in C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('', Array)
+#1 C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\OpenServer\domains\antagosoft\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\OpenServer\domains\antagosoft\index.php(12): yii\base\Application->run()
+#2 {main}
+2019-06-12 17:22:47 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => '289e609d03118b662b7304f871516153a93cb45a4486003c41d849cfefa27226a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"z0uqXsGbePL7y9gUjGAheY9QNTtpZfgp\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'antagosoft'
+    'HTTP_X_REAL_IP' => '127.0.0.1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_CONNECTION' => 'close'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,ru;q=0.8,uk;q=0.7'
+    'HTTP_COOKIE' => '_csrf=289e609d03118b662b7304f871516153a93cb45a4486003c41d849cfefa27226a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22z0uqXsGbePL7y9gUjGAheY9QNTtpZfgp%22%3B%7D'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-7.0-x64\\ext;c:\\openserver\\modules\\php\\PHP-7.0-x64\\pear;c:\\openserver\\modules\\php\\PHP-7.0-x64\\pear\\bin;c:\\openserver\\modules\\php\\PHP-7.0-x64;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\database\\MySQL-5.6-x64\\bin;c:\\openserver\\modules\\redis\\Redis-3.0-x64;c:\\openserver\\modules\\http\\Apache-PHP-7-x64+Nginx-1.10\\bin;c:\\openserver\\modules\\http\\Apache-PHP-7-x64+Nginx-1.10;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\system32\\Wbem;C:\\WINDOWS\\SysWOW64'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'COMSPEC' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\WINDOWS'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'antagosoft'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/antagosoft'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/antagosoft'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/antagosoft/index.php'
+    'REMOTE_PORT' => '5005'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.0'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1560349367.85
+    'REQUEST_TIME' => 1560349367
+    'argv' => []
+    'argc' => 0
+]
+2019-06-12 17:22:50 [127.0.0.1][-][-][error][yii\web\HttpException:404] yii\base\InvalidRouteException: Unable to resolve the request "". in C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\base\Module.php:537
+Stack trace:
+#0 C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\web\Application.php(103): yii\base\Module->runAction('', Array)
+#1 C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#2 C:\OpenServer\domains\antagosoft\index.php(12): yii\base\Application->run()
+#3 {main}
+
+Next yii\web\NotFoundHttpException: Page not found. in C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\web\Application.php:115
+Stack trace:
+#0 C:\OpenServer\domains\antagosoft\vendor\yiisoft\yii2\base\Application.php(386): yii\web\Application->handleRequest(Object(yii\web\Request))
+#1 C:\OpenServer\domains\antagosoft\index.php(12): yii\base\Application->run()
+#2 {main}
+2019-06-12 17:22:50 [127.0.0.1][-][-][info][application] $_GET = []
+
+$_POST = []
+
+$_FILES = []
+
+$_COOKIE = [
+    '_csrf' => '289e609d03118b662b7304f871516153a93cb45a4486003c41d849cfefa27226a:2:{i:0;s:5:\"_csrf\";i:1;s:32:\"z0uqXsGbePL7y9gUjGAheY9QNTtpZfgp\";}'
+]
+
+$_SERVER = [
+    'HTTP_HOST' => 'antagosoft'
+    'HTTP_X_REAL_IP' => '127.0.0.1'
+    'HTTP_X_FORWARDED_PROTO' => 'http'
+    'HTTP_CONNECTION' => 'close'
+    'HTTP_PRAGMA' => 'no-cache'
+    'HTTP_CACHE_CONTROL' => 'no-cache'
+    'HTTP_UPGRADE_INSECURE_REQUESTS' => '1'
+    'HTTP_USER_AGENT' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36'
+    'HTTP_ACCEPT' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3'
+    'HTTP_ACCEPT_ENCODING' => 'gzip, deflate'
+    'HTTP_ACCEPT_LANGUAGE' => 'en-US,en;q=0.9,ru;q=0.8,uk;q=0.7'
+    'HTTP_COOKIE' => '_csrf=289e609d03118b662b7304f871516153a93cb45a4486003c41d849cfefa27226a%3A2%3A%7Bi%3A0%3Bs%3A5%3A%22_csrf%22%3Bi%3A1%3Bs%3A32%3A%22z0uqXsGbePL7y9gUjGAheY9QNTtpZfgp%22%3B%7D'
+    'PATH' => 'c:\\openserver\\modules\\php\\PHP-7.0-x64\\ext;c:\\openserver\\modules\\php\\PHP-7.0-x64\\pear;c:\\openserver\\modules\\php\\PHP-7.0-x64\\pear\\bin;c:\\openserver\\modules\\php\\PHP-7.0-x64;c:\\openserver\\modules\\wget\\bin;c:\\openserver\\modules\\database\\MySQL-5.6-x64\\bin;c:\\openserver\\modules\\redis\\Redis-3.0-x64;c:\\openserver\\modules\\http\\Apache-PHP-7-x64+Nginx-1.10\\bin;c:\\openserver\\modules\\http\\Apache-PHP-7-x64+Nginx-1.10;C:\\WINDOWS\\system32;C:\\WINDOWS;C:\\WINDOWS\\system32\\Wbem;C:\\WINDOWS\\SysWOW64'
+    'SystemRoot' => 'C:\\WINDOWS'
+    'COMSPEC' => 'C:\\WINDOWS\\system32\\cmd.exe'
+    'PATHEXT' => '.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC'
+    'WINDIR' => 'C:\\WINDOWS'
+    'SERVER_SIGNATURE' => ''
+    'SERVER_SOFTWARE' => 'Apache'
+    'SERVER_NAME' => 'antagosoft'
+    'SERVER_ADDR' => '127.0.0.1'
+    'SERVER_PORT' => '80'
+    'REMOTE_ADDR' => '127.0.0.1'
+    'DOCUMENT_ROOT' => 'C:/OpenServer/domains/antagosoft'
+    'REQUEST_SCHEME' => 'http'
+    'CONTEXT_PREFIX' => ''
+    'CONTEXT_DOCUMENT_ROOT' => 'C:/OpenServer/domains/antagosoft'
+    'SERVER_ADMIN' => '[no address given]'
+    'SCRIPT_FILENAME' => 'C:/OpenServer/domains/antagosoft/index.php'
+    'REMOTE_PORT' => '5008'
+    'GATEWAY_INTERFACE' => 'CGI/1.1'
+    'SERVER_PROTOCOL' => 'HTTP/1.0'
+    'REQUEST_METHOD' => 'GET'
+    'QUERY_STRING' => ''
+    'REQUEST_URI' => '/'
+    'SCRIPT_NAME' => '/index.php'
+    'PHP_SELF' => '/index.php'
+    'REQUEST_TIME_FLOAT' => 1560349370.256
+    'REQUEST_TIME' => 1560349370
+    'argv' => []
+    'argc' => 0
+]
